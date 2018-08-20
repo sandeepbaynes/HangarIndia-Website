@@ -68,6 +68,33 @@
 }
 /*************/
 /*CSS*/
+.pad0 {
+  padding: 0px;
+}
+.pad5 {
+  padding: 5px;
+}
+.padTop5 {
+  padding-top: 5px;
+}
+.padTop20 {
+  padding-top: 20px;
+}
+.padLeft10 {
+  padding-left: 10px;
+}
+.padLeft40 {
+  padding-left: 40px;
+}
+.margin20 {
+  margin: 20px;
+}
+.fontMont {
+  font-family: mont;
+}
+.fontNotoserif {
+  font-family: notoserif;
+}
 body {
   background-color: #000000;
 }
@@ -132,7 +159,6 @@ body {
   bottom: 25vh;
   color: #fff;
   text-align: center;
-  font-family: notoserif;
   font-size: 1.3em;
 }
 .separator {
@@ -162,7 +188,6 @@ body {
   background: #000;
   color: #fff;
   padding: 23px;
-  font-family: mont;
   font-size: 0.8em;
 }
 .more:hover {
@@ -196,7 +221,6 @@ body {
   width: 15px;
 }
 .copyrightContainer {
-  font-family: notoserif;
   color: #fff;
   font-size: 0.7em;
   text-align: center;
@@ -204,24 +228,21 @@ body {
 .addressContainer {
   padding-top: 15px;
   text-align: left;
-  font-family: mont;
   font-size: 0.7em;
   color: #fff;
   border-left: solid 1px #fff;
   line-height: 5px;
 }
-.padTop5 {
-  padding-top: 5px;
-}
-.pad5 {
-  padding: 5px;
-}
 .heading {
-  padding-left: 40px;
-  padding-top: 10px;
-  font-family: mont;
   font-weight: bold;
-  margin-top: 50px;
+}
+.jobheading {
+  display: none;
+}
+@media only screen and (min-width: 768px) {
+  .desktopInline {
+    display: inline;
+  }
 }
 .inline {
   display: inline;
@@ -234,5 +255,14 @@ body {
   height: 25px;
   width: 25px;
   cursor: pointer;
+}
+.searchtxt {
+  border: 1px solid #d0d0d0;
+  border-radius: 5px;
+  color: #4e4e4e;
+  min-width: 40vw;
+}
+.careersCol {
+  overflow-y: auto;
 }
 /*************/
