@@ -282,4 +282,9 @@ span.jobTitle {
   color: #4e4e4e;
   min-width: 40vw;
 }
+.jobCode {
+  border-left: 1px solid #ca4444;
+  padding-left: 10px;
+  margin-left: 10px;
+}
 /*************/
