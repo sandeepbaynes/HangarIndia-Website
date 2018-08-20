@@ -107,6 +107,9 @@
 .fontWhite {
   color: #fff;
 }
+.txtJustify {
+  text-align: justify;
+}
 body {
   background-color: #000000;
 }
@@ -132,9 +135,7 @@ body {
 }
 .section {
   min-height: 100vh;
-  min-width: 100vw;
   position: relative;
-  overflow: scroll;
 }
 .sectionHome {
   background-image: url(../images/holi.png);
