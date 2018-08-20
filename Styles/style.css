@@ -86,8 +86,14 @@
 .padLeft15 {
   padding-left: 15px;
 }
+.padLeft30 {
+  padding-left: 30px;
+}
 .padLeft40 {
   padding-left: 40px;
+}
+.padRight30 {
+  padding-right: 30px;
 }
 .margin20 {
   margin: 20px;
@@ -148,6 +154,7 @@ body {
 }
 .sectionContact {
   background-color: #4e4e4e;
+  min-height: 90vh;
   z-index: 3;
 }
 .flexBox {
@@ -165,6 +172,12 @@ body {
 .navbarIcon {
   min-width: 75px;
   max-width: 100px;
+}
+.row {
+  margin: 0px;
+}
+.container-fluid {
+  padding: 0px;
 }
 .titleRow {
   top: 20vh;
@@ -212,8 +225,6 @@ body {
   animation-fill-mode: forwards;
 }
 .footer {
-  position: absolute;
-  bottom: 0px;
   background-color: #000;
   width: 100vw;
 }
@@ -238,13 +249,6 @@ body {
   font-size: 0.7em;
   text-align: center;
 }
-.addressContainer {
-  padding-top: 15px;
-  text-align: left;
-  font-size: 0.7em;
-  border-left: solid 1px #fff;
-  line-height: 5px;
-}
 .heading {
   font-weight: bold;
 }
@@ -257,6 +261,13 @@ span.jobTitle {
 .descriptionSkillset {
   padding-top: 5px;
 }
+.addressContainer {
+  padding-top: 15px;
+  text-align: left;
+  font-size: 0.7em;
+  line-height: 5px;
+  padding-left: 30px;
+}
 @media only screen and (min-width: 768px) {
   .desktopInline {
     display: inline;
@@ -265,6 +276,9 @@ span.jobTitle {
     padding-top: 0px;
     border-left: 1px dotted #ca4444;
     padding-left: 20px;
+  }
+  .addressContainer {
+    border-left: solid 1px #fff;
   }
 }
 .lensBlock {
@@ -282,7 +296,7 @@ span.jobTitle {
   color: #4e4e4e;
   min-width: 40vw;
 }
-.jobCode {
+.labelJobcode {
   border-left: 1px solid #ca4444;
   padding-left: 10px;
   margin-left: 10px;
