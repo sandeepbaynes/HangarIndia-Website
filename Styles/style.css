@@ -83,6 +83,9 @@
 .padLeft10 {
   padding-left: 10px;
 }
+.padLeft15 {
+  padding-left: 15px;
+}
 .padLeft40 {
   padding-left: 40px;
 }
@@ -94,6 +97,15 @@
 }
 .fontNotoserif {
   font-family: notoserif;
+}
+.fontCrimson {
+  color: #ca4444;
+}
+.fontDark {
+  color: #565656;
+}
+.fontWhite {
+  color: #fff;
 }
 body {
   background-color: #000000;
@@ -140,6 +152,9 @@ body {
 .flexBox {
   display: flex;
 }
+.inline {
+  display: inline;
+}
 .hangarTitle {
   max-width: 340px;
   min-width: 250px;
@@ -157,7 +172,6 @@ body {
 .subtitleRow {
   position: absolute;
   bottom: 25vh;
-  color: #fff;
   text-align: center;
   font-size: 1.3em;
 }
@@ -186,7 +200,6 @@ body {
   border-top-right-radius: 115px;
   text-align: center;
   background: #000;
-  color: #fff;
   padding: 23px;
   font-size: 0.8em;
 }
@@ -221,7 +234,6 @@ body {
   width: 15px;
 }
 .copyrightContainer {
-  color: #fff;
   font-size: 0.7em;
   text-align: center;
 }
@@ -229,23 +241,30 @@ body {
   padding-top: 15px;
   text-align: left;
   font-size: 0.7em;
-  color: #fff;
   border-left: solid 1px #fff;
   line-height: 5px;
 }
 .heading {
   font-weight: bold;
 }
-.jobheading {
+span.jobTitle {
+  font-size: 1.5em;
+}
+.desktopInline {
   display: none;
+}
+.descriptionSkillset {
+  padding-top: 5px;
 }
 @media only screen and (min-width: 768px) {
   .desktopInline {
     display: inline;
   }
-}
-.inline {
-  display: inline;
+  .descriptionSkillset {
+    padding-top: 0px;
+    border-left: 1px dotted #ca4444;
+    padding-left: 20px;
+  }
 }
 .lensBlock {
   vertical-align: middle;
@@ -261,8 +280,5 @@ body {
   border-radius: 5px;
   color: #4e4e4e;
   min-width: 40vw;
-}
-.careersCol {
-  overflow-y: auto;
 }
 /*************/
