@@ -159,6 +159,10 @@ body {
   text-align: center;
   font-size: 1.3em;
 }
+.more {
+  max-width: 100px;
+  max-height: 50px;
+}
 .separator {
   width: 100vw;
   height: 15px;
@@ -225,7 +229,7 @@ span.jobTitle {
     border-left: solid 1px #fff;
   }
   .subtitleRow {
-    bottom: 33vh;
+    bottom: 37vh;
   }
 }
 .lensBlock {
