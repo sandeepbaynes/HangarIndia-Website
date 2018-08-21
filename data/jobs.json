@@ -1,0 +1,72 @@
+{
+    "jobs": [
+      {
+        "jobTitle": ".Net Lead (Product)",
+        "jobCode": "CDNADN11",
+        "About": "Hangar India/CODE North America is searching for a rockstar .NET Lead who is looking to take their .NET and Azure skills to the next level. Join a team that is designing and building next-level marketing platforms using the gambit of Azure PaaS and IaaS. Get in on the ground floor with greenfield development projects that will challenge you both technically and creatively. Work in a dynamic and highly collaborative environment where individual accomplishment is championed.",
+        "WhatYouWillDo": [
+          "Design, develop, and maintain application software following established standards, procedures, and specifications",
+          "Design and implement core services used by our public-cloud solution ",
+          "Lead software design and code reviews",
+          "Mentor and coach other developers in your team",
+          "Analyze software requirements to determine feasibility of design and implementation within time and cost constraints",
+          "Maintain an approachable demeanor and a positive can-do attitude",
+          "Collaborate designs with team members in order to find the solution that best fits the requirements",
+          "Consult with customers and co-workers in a professional manner"
+        ],
+        "WhatYouAreLike": [
+          "Ability to adapt quickly to an existing and complex environment",
+          "Ability to quickly learn new concepts and software as necessary",
+          "Outstanding communication skills, both written and verbal",
+          "Passionate about building high-quality software using best practices",
+          "A self-starter mentality with confidence to sprint independently",
+          "Meticulous about the details",
+          "But most importantly a dependable team-player"
+        ],
+        "WhatHaveYouGot": [
+          "8+ years of experience in Analysis, Design, and Development of .NET Web Experiences (MVC, JavaScript, REST, OData)",
+          "Deep understanding and experience developing RESTful services with .NET",
+          "5+ years of experience working on an Agile team and following Agile processes like SCRUM and Scaled Agile Framework (SAFe)",
+          "Strong background in using object-oriented programming patterns",
+          "5+ years following industry standards and best practices for software development, including deep exposure to patterns and design principles",
+          "Solid understanding of Test Driven Development (TDD) with real-world experience using tools such as Microsoft Unit Test framework.",
+          "3+ years of experience in building highly scalable and reliable Azure cloud services leveraging App Services, Service Bus, Azure SQL DB, Azure API Management and other PaaS components",
+          "Prior implementation experience leveraging Azure storage solutions such as Blob, Tables, and Queues"
+        ]
+      },
+      {
+        "jobTitle": ".Net Lead (Product)-2",
+        "jobCode": "CDNADN12",
+        "About": "Hangar India/CODE North America is searching for a rockstar .NET Lead who is looking to take their .NET and Azure skills to the next level. Join a team that is designing and building next-level marketing platforms using the gambit of Azure PaaS and IaaS. Get in on the ground floor with greenfield development projects that will challenge you both technically and creatively. Work in a dynamic and highly collaborative environment where individual accomplishment is championed.",
+        "WhatYouWillDo": [
+          "Design, develop, and maintain application software following established standards, procedures, and specifications",
+          "Design and implement core services used by our public-cloud solution ",
+          "Lead software design and code reviews",
+          "Mentor and coach other developers in your team",
+          "Analyze software requirements to determine feasibility of design and implementation within time and cost constraints",
+          "Maintain an approachable demeanor and a positive can-do attitude",
+          "Collaborate designs with team members in order to find the solution that best fits the requirements",
+          "Consult with customers and co-workers in a professional manner"
+        ],
+        "WhatYouAreLike": [
+          "Ability to adapt quickly to an existing and complex environment",
+          "Ability to quickly learn new concepts and software as necessary",
+          "Outstanding communication skills, both written and verbal",
+          "Passionate about building high-quality software using best practices",
+          "A self-starter mentality with confidence to sprint independently",
+          "Meticulous about the details",
+          "But most importantly a dependable team-player"
+        ],
+        "WhatHaveYouGot": [
+          "8+ years of experience in Analysis, Design, and Development of .NET Web Experiences (MVC, JavaScript, REST, OData)",
+          "Deep understanding and experience developing RESTful services with .NET",
+          "5+ years of experience working on an Agile team and following Agile processes like SCRUM and Scaled Agile Framework (SAFe)",
+          "Strong background in using object-oriented programming patterns",
+          "5+ years following industry standards and best practices for software development, including deep exposure to patterns and design principles",
+          "Solid understanding of Test Driven Development (TDD) with real-world experience using tools such as Microsoft Unit Test framework.",
+          "3+ years of experience in building highly scalable and reliable Azure cloud services leveraging App Services, Service Bus, Azure SQL DB, Azure API Management and other PaaS components",
+          "Prior implementation experience leveraging Azure storage solutions such as Blob, Tables, and Queues"
+        ]
+      }
+    ]
+  }
